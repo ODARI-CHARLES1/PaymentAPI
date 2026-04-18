@@ -13,6 +13,7 @@ A Node.js Express API for handling Stripe payments with a layered modular archit
 ## Project Structure
 
 ```
+
 PaymentAPI/
 ├── config/
 │   └── stripe.js          # Stripe configuration
